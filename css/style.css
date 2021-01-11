@@ -492,6 +492,7 @@ html {
 }
 
 .faq__item {
+  cursor: pointer;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -852,7 +853,7 @@ textarea::placeholder {
     position:relative;
     z-index:20;
     border: none;
-    background: url(/img/x.png) center center no-repeat;
+    background: url(/img/X.png) center center no-repeat;
   }
 
   .nav__item {
@@ -1283,7 +1284,7 @@ textarea::placeholder {
     position:relative;
     z-index:20;
     border: none;
-    background: url(/img/x.png) center center no-repeat;
+    background: url(/img/X.png) center center no-repeat;
   }
 
   .nav__item {
@@ -1567,7 +1568,7 @@ textarea::placeholder {
     position:relative;
     z-index:20;
     border: none;
-    background: url(/img/x.png) center center no-repeat;
+    background: url(/img/X.png) center center no-repeat;
   }
 
   .nav__item {
@@ -1853,7 +1854,7 @@ textarea::placeholder {
     position:relative;
     z-index:20;
     border: none;
-    background: url(/img/x.png) center center no-repeat;
+    background: url(/img/X.png) center center no-repeat;
   }
 
   .nav__item {
