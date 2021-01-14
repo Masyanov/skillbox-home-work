@@ -193,8 +193,6 @@ html {
   margin: 0px 10px 15px 10px !important;
 }
 
-.swiper-container-horizontal {
-}
 
 .swiper-pagination-bullet:hover {
   border: 1px solid #fff;
@@ -495,7 +493,6 @@ html {
   cursor: pointer;
   display: flex;
   justify-content: space-between;
-  align-items: center;
   min-height: 114px;
   border-top: 1px solid var(--color-light-gray);
 }
@@ -606,7 +603,15 @@ html {
     margin-block-start: 1em;
   }
 
-
+  .ui-accordion-header-icon .ui-icon .ui-icon-triangle-1-e {
+    display: none !important;
+  }
+  .ui-icon, .ui-widget-content .ui-icon {
+    display: none !important;
+  }
+  .ui-icon-triangle-1-e {
+    display: none !important;
+  }
 
 /* Футер */
 
