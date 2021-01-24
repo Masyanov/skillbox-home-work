@@ -95,6 +95,7 @@
 	position: relative;
   display: flex;
   align-items: center;
+  text-align: left;
   min-height: 114px;
 }
 .ui-accordion .ui-accordion-content {
